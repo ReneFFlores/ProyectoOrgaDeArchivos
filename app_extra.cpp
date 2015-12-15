@@ -24,7 +24,7 @@ int main(){
       cout << "copiado bien :)" << endl;
     }
     file.close();
-    system("PAUSE");
+    
     return 0;
 }
 
